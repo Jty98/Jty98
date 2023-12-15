@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요.👋%20정태영의 Git Repository 입니다.&fontSize=90)
-
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=안녕하세요.👋%20정태영의%20Git%20Repository입니다.&fontSize=30&fontColor=e5e5e5"/>
+  <hr/>
+  <a>
+</div>
 <!--
 **Jty98/Jty98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
