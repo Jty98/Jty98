@@ -1,7 +1,4 @@
-### 안녕하세요.👋 정태영의 Git Repository 입니다.
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요.👋%20정태영의 Git Repository 입니다.&fontSize=90)
 
 <!--
 **Jty98/Jty98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
